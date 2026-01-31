@@ -1,0 +1,9 @@
+[submodule "document-service"]
+	path = document-service
+	url = https://github.com/xiomarag55/document-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/xiomarag55/user-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/xiomarag55/api-gateway.git
